@@ -2,7 +2,7 @@ p {font-family: 'Times New Roman', Times, serif;
     font-size: large;
     color: black;}
 
-#direction :hover{font-family:'Courier New';
+#direction:hover{font-family:'Courier New';
                   font-size: smaller;
                   color:red;
                   background-color: lightcoral}
