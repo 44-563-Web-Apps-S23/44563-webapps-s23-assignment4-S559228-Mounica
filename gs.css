@@ -2,12 +2,12 @@
     font-size: 20px;
     color: black;}
 
-#direction{font-family:'Courier New';
+.direction{font-family:'Courier New';
                   font-size: 16px;
                   color:black;
                   background-color:lightcoral}
 
-#direction:hover{
+.direction:hover{
     color: red;
     background-color: blueviolet;
 }
