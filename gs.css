@@ -14,19 +14,29 @@ p {font-family: 'Times New Roman', Times, serif;
 .delane{
     color: aqua;
 }
+.delane:hover{
+    color: aqua;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
 
 .quirke{
     color:blue;
 }
 
+.quirke:hover{
+    color:blue;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
 table{
-    border: 10px;
+    border: 5px;
     color: chocolate;
     text-align: center;
     padding: 1px;
     margin-left:auto;
     margin-right: auto;
-    border-width: 5px;
+    border-style: solid;
 }
 
 tr:nth-child(odd) {
