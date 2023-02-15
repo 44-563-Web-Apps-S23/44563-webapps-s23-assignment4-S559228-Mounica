@@ -1,4 +1,4 @@
-.class{font-family: 'Times New Roman', Times, serif;
+.speech{font-family: 'Times New Roman', Times, serif;
     font-size: 2px;
     color: black;}
 
@@ -42,3 +42,4 @@ table{
 tr:nth-child(odd) {
     background-color:aquamarine;
 }
+
