@@ -1,5 +1,5 @@
 .speech{font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-size: 20px;
     color: black;}
 
 #direction{font-family:'Courier New';
@@ -14,21 +14,10 @@
 .delane{
     color: aqua;
 }
-.delane:hover{
-    color:cornflowerblue;
-    text-shadow: 2px 2px 4px red;
-    border-style: solid;
-}
-
 .quirke{
     color:blue;
 }
 
-.quirke:hover{
-    color:blue;
-    text-shadow: 2px 2px 4px red;
-    border-style: solid;
-}
 table{
     border: 5px;
     color: chocolate;
@@ -43,3 +32,14 @@ tr:nth-child(odd) {
     background-color:aquamarine;
 }
 
+.delane:hover{
+    color:cornflowerblue;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
+
+.quirke:hover{
+    color:blue;
+    text-shadow: 2px 2px 4px red;
+    border-style: solid;
+}
